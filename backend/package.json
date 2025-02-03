@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "../../../chat-ws/backend/node_modules/.bin/nodemon index.ts"
+    "dev": "nodemon index.ts"
   },
   "keywords": [],
   "author": "",
